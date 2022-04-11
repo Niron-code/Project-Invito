@@ -7,3 +7,7 @@ What is in Prototype 1?
 2. Address Service
 3. Person Service 
 4. Common Service - Which interact with all other 3 services
+
+Note: These services retrive the value from source code itself
+      not from the Database. This prototype 1 is done to check
+      the interoperabilty of services.
